@@ -75,7 +75,7 @@ Place these in a folder called `sample_data/` at the root of the repo, or update
 2. Paste the repository URL and open the notebook you want, e.g.:
    - `Logistic Regression.ipynb`
    - `xgboost-on-obesity-risk (1).ipynb`
-   - `CatBoost_v1.ipynb`
+   - `Visualized CatBoost.ipynb`
    - `ECS_171_Random_forest (2).ipynb`
 3. Upload the dataset files into a `sample_data/` folder in the Colab runtime:
    - In the file browser, create `/content/sample_data/` and upload `train.csv`, `test.csv`, and `ObesityDataSet.csv`.
